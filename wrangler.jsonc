@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bo-ciak-bo-pang-sai-lo",
+  "compatibility_date": "2026-04-06",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "amp"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
